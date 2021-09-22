@@ -1,1 +1,1 @@
-# hugo myblog
+# hugo blog
